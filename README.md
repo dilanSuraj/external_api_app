@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screencast
+
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/40181843/76195212-d112f980-620d-11ea-9a67-1dd452480ad4.gif)
